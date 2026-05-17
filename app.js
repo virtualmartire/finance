@@ -18,35 +18,32 @@
 
   const translations = {
     en: {
-      documentTitle: "Portfolio | Architecture of Tomorrow",
-      navStrategy: "Strategy",
+      documentTitle: "MFIN",
+      navStrategy: "Plan",
       navResults: "Results",
       navAbout: "About",
-      heroEyebrow: "Investment Philosophy",
-      heroTitle: "Investing in the<br>Architecture of Tomorrow",
+      heroEyebrow: "Martire Investment Fund",
+      heroTitle: "The Architecture of the Future",
       heroCopy:
-        "A principled strategy at the intersection of technological acceleration, financial rigor, and universal human progress.",
-      scienceTitle: "Science & Technology",
+        "Manifesto of an investment strategy based on technological acceleration and universal human progress.",
+      scienceTitle: "Science and Technology",
       scienceBody: `
-        <p>The first question I ask before any investment decision is deceptively simple yet cosmically ambitious: <em>is the technology developed by this company poised to constitute a foundational layer of the civilization of the future?</em></p>
-        <p>We are living through the most consequential period of technological acceleration in human history. The great filter of progress is not ideological but thermodynamic: it is energy, compute, intelligence, matter, and substrate. I seek companies building the substrate of tomorrow: the infrastructure upon which entire civilizations will run, the protocols that will govern how humanity interfaces with intelligence, matter, and energy.</p>
-        <p>This is not speculation. It is the long arc of technological determinism made legible. Acceleration is not a risk to be hedged; it is the prime mover. The question is never whether technology will reshape society, but which organizations will lay the bedrock upon which that reshaping occurs.</p>
+        <p>Science and Technology are the two pillars on which the structure of civilization stands. From the way we sustain ourselves to the regulation of social interactions, everything derives from the tools we have at our disposal to live in the world and overcome the problems that nature places before us. For this reason, recognizing in advance the importance of scientific discoveries and technological inventions in relation to the future dynamics of human life represents a major economic advantage, namely one of the most profitable and innovative investment opportunities of all.</p>
+        <p>MFIN operates by constantly and deeply analyzing the contemporary socio-technological landscape, identifying the north stars by which the human species is being guided and building thematic portfolios around the most promising ones to finance companies in the respective sectors.</p>
       `,
-      architectureTitle: "The Architecture of Progress",
+      architectureTitle: "Business Plans",
       architectureBody: `
-        <p>Having identified a transformative technology, the second question becomes equally essential: <em>can this company actually build it?</em></p>
-        <p>The most visionary technology is worth nothing if the organization behind it cannot survive long enough to deliver it. A brilliant blueprint for a cathedral remains rubble without discipline of construction. I examine the financial architecture of each candidate company with the same rigor I would apply to a structural theorem: looking not for growth at all costs, but for <em>intelligent design</em>, a defensible path to sustainability, and leadership that understands that without fiscal fortitude, no future can be reached.</p>
-        <p>The business architecture is not a concession to commerce; it is the <em>load-bearing wall</em> of every technological vision.</p>
+        <p>Every major technological development needs a rigorous financial plan in order to be executed properly. Good ideas and intelligence are undoubtedly the hardest kind of resource to find, but once a project is underway it is equally necessary to manage finances well and complete each stage of the plan with sound judgment.</p>
+        <p>Indeed, every company considered by MFIN is also subjected to financial evaluations to determine whether the proposed concepts are materially feasible, with an output from us that is not binary but instead reflects the asset's percentage of risk, thereby contributing to the balancing and optimization of the fund's performance.</p>
       `,
       ethicsTitle: "Ethics",
       ethicsBody: `
-        <p>Technology accelerates toward a future that is neither inevitable nor uniformly beneficial by default. The third pillar of my philosophy reflects a conviction I hold with institutional gravity: <em>progress must be universal.</em></p>
-        <p>Acceleration without distribution is not civilization; it is a new form of feudalism encoded in silicon. I invest exclusively in companies whose technological trajectory I believe will compound into a world where <em>every human being</em>, regardless of origin, geography, or circumstance, stands to benefit.</p>
-        <p>The technologies that ultimately triumph are those that expand the commons of human capability: they lower the cost of intelligence, health, energy, or connection. A rising tide, when that tide is technology, can and must lift all boats.</p>
+        <p>Technology accelerates toward a future that is neither inevitable nor automatically beneficial for everyone. Acceleration without distribution is not civilization: it is a new form of feudalism encoded in matter. Progress must be universal, and the technologies destined to prevail are those that expand the commons of human capability: they lower the cost of intelligence, health, energy, and connection.</p>
+        <p>MFIN invests exclusively in companies whose technological trajectory can ultimately help build a world in which every human being is elevated, ruling out from the outset those that increase disparities among individuals.</p>
       `,
-      resultsEyebrow: "Strategy Performance vs. Major Indices",
+      resultsEyebrow: "MFIN vs. the Market",
       resultsTitle: "Results",
-      resultsPeriod: "Annual gains · 2022 — 2025",
+      resultsPeriod: "Annual returns",
       aboutEyebrow: "About",
       aboutTitle: "Stefano Martire",
       aboutCredential: "Ph.D. in Data Science and Computation",
@@ -54,12 +51,12 @@
         '<a href="https://www.iit.it/" rel="noreferrer" target="_blank">Italian Institute of Technology</a>',
       aboutWebsite: "Personal website",
       aboutBody: `
-        <p>I am an Italian mathematician, holder of a Ph.D. in Data Science and Computation from the <a href="https://www.iit.it/" rel="noreferrer" target="_blank"><em>Italian Institute of Technology</em></a>. My academic background, built at the intersection of abstract mathematics and applied data science, forms the methodological bedrock of my investment practice.</p>
-        <p>I approach markets not as a trader seeking arbitrage, but as a scientist seeking <em>signal</em>: the deep structural patterns that betray which technologies will become load-bearing elements of the civilization to come.</p>
+        <p>My passion for science, technology, and invention has been with me since I was a child. I partially satisfied that curiosity with a degree in Mathematics from the Catholic University of the Sacred Heart and a doctorate in Data Science from the Italian Institute of Technology, before continuing my career in academic and industrial research and development.</p>
+        <p>I approach markets not in search of arbitrage, but like a scientist in search of signal: deep structural patterns that reveal which technologies will become foundational elements for the human beings of the future.</p>
       `,
       requestAccess: "Request access",
       mailSubject: "Request access",
-      chartAlt: "Annual percentage gains of MFIN compared with FTSE MIB, Euro Stoxx 50, S&P 500, and Nasdaq 100.",
+      chartAlt: "Annual percentage returns of MFIN compared with FTSE MIB, Euro Stoxx 50, S&P 500, and Nasdaq 100.",
       strategyLabel: "MFIN",
       ftseLabel: "FTSE MIB",
       sx5eLabel: "Euro Stoxx 50",
@@ -90,7 +87,7 @@
       architectureTitle: "Piani Aziendali",
       architectureBody: `
         <p>Ogni grande sviluppo tecnologico ha bisogno di un rigoroso piano finanziario per poter essere correttamente eseguito. Le buone idee e l'intelligenza sono senza dubbio il tipo di risorsa più difficile da reperire, ma una volta partiti è altresì necessario amministrare bene le finanze e completare i vari punti del piano con criterio.</p>
-        <p>Infatti, ogni azienda candidata in MFIN è anche naturalmente sottoposta a delle valutazioni finanziarie per capire se i concetti proposti sono materialmente realizzabili, con un output da parte nostra che non è binario bensì riflettente la percentuale di rischio dell'asset, contribuendo in questo modo al bilanciamento e all'ottimizzazione della performance del fondo.</p>
+        <p>Infatti, ogni azienda candidata in MFIN è anche sottoposta a delle valutazioni finanziarie per capire se i concetti proposti sono materialmente realizzabili, con un output da parte nostra che non è binario bensì riflettente la percentuale di rischio dell'asset, contribuendo in questo modo al bilanciamento e all'ottimizzazione della performance del fondo.</p>
       `,
       ethicsTitle: "Etica",
       ethicsBody: `
