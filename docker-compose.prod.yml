@@ -2,4 +2,5 @@ services:
   finance-landing-page:
     build: .
     container_name: finance-landing-page
+    network_mode: bridge
     restart: unless-stopped

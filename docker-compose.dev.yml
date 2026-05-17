@@ -2,6 +2,7 @@ services:
   finance-landing-page-dev:
     build: .
     container_name: finance-landing-page-dev
+    network_mode: bridge
     ports:
       - "8080:80"
     volumes:
