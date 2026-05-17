@@ -52,6 +52,7 @@
       aboutCredential: "Ph.D. in Data Science and Computation",
       aboutInstitute:
         '<a href="https://www.iit.it/" rel="noreferrer" target="_blank">Italian Institute of Technology</a>',
+      aboutWebsite: "Personal website",
       aboutBody: `
         <p>I am an Italian mathematician, holder of a Ph.D. in Data Science and Computation from the <a href="https://www.iit.it/" rel="noreferrer" target="_blank"><em>Italian Institute of Technology</em></a>. My academic background, built at the intersection of abstract mathematics and applied data science, forms the methodological bedrock of my investment practice.</p>
         <p>I approach markets not as a trader seeking arbitrage, but as a scientist seeking <em>signal</em>: the deep structural patterns that betray which technologies will become load-bearing elements of the civilization to come.</p>
@@ -73,43 +74,41 @@
       yAxisLabel: "Annual return (%)",
     },
     it: {
-      documentTitle: "Portfolio | Architettura del Domani",
-      navStrategy: "Strategia",
+      documentTitle: "MFIN",
+      navStrategy: "Piano",
       navResults: "Risultati",
-      navAbout: "Chi sono",
-      heroEyebrow: "Filosofia di investimento",
-      heroTitle: "Investire nell'<br>Architettura del Domani",
+      navAbout: "Info",
+      heroEyebrow: "Fondo di Investimento Martire",
+      heroTitle: "L'Architettura del Futuro",
       heroCopy:
-        "Una strategia fondata sull'intersezione tra accelerazione tecnologica, rigore finanziario e progresso umano universale.",
+        "Manifesto di una strategia di investimento basata su accelerazione tecnologica e progresso umano universale.",
       scienceTitle: "Scienza e Tecnologia",
       scienceBody: `
-        <p>La prima domanda che mi pongo prima di ogni decisione di investimento è apparentemente semplice ma cosmicamente ambiziosa: <em>la tecnologia sviluppata da questa azienda può costituire uno strato fondazionale della civiltà del futuro?</em></p>
-        <p>Viviamo il periodo più decisivo di accelerazione tecnologica nella storia umana. Il grande filtro del progresso non è ideologico ma termodinamico: energia, calcolo, intelligenza, materia e substrato. Cerco aziende che costruiscono il substrato del domani: l'infrastruttura su cui correranno intere civiltà, i protocolli che governeranno il modo in cui l'umanità interagirà con intelligenza, materia ed energia.</p>
-        <p>Questa non è speculazione. È il lungo arco del determinismo tecnologico reso leggibile. L'accelerazione non è un rischio da coprire: è il motore primo. La domanda non è se la tecnologia rimodellerà la società, ma quali organizzazioni poseranno il fondamento su cui quel rimodellamento avverrà.</p>
+        <p>Scienza e Tecnologia sono le due colonne su cui si erge la struttura della civiltà. Dal modo in cui ci sostentiamo al regolamento delle interazioni sociali, tutto deriva dagli strumenti che abbiamo a disposizione per stare al mondo e superare i problemi che la natura ci pone davanti. Per questo motivo, percepire in anticipo l'importanza l'importanza delle scoperte scientifiche e delle invenzioni tecnologiche relativamente alle dinamiche umane del futuro rappresenta un grande vantaggio economico, ovvero una tra le opportunità di investimento più profittevoli e innovative di tutte.</p>
+        <p>MFIN opera tenendo costantemente e profondamente analizzato il panorama social-tecnologico contemporaneo, individuando le stelle polari da cui la specie umana si sta facendo guidare e costruendo sulle più promettenti dei portafogli tematici che finanziano le aziende dei relativi settori.</p>
       `,
-      architectureTitle: "L'Architettura del Progresso",
+      architectureTitle: "Piani Aziendali",
       architectureBody: `
-        <p>Identificata una tecnologia trasformativa, la seconda domanda diventa altrettanto essenziale: <em>questa azienda può davvero costruirla?</em></p>
-        <p>La tecnologia più visionaria non vale nulla se l'organizzazione che la sviluppa non può sopravvivere abbastanza a lungo da consegnarla al mondo. Il progetto brillante di una cattedrale resta maceria senza disciplina di costruzione. Analizzo l'architettura finanziaria di ogni azienda candidata con lo stesso rigore che applicherei a un teorema strutturale: non cerco crescita a qualunque costo, ma <em>disegno intelligente</em>, un percorso difendibile verso la sostenibilità e una leadership che comprenda che senza solidità fiscale nessun futuro, per quanto magnifico, può essere raggiunto.</p>
-        <p>L'architettura d'impresa non è una concessione al commercio: è il <em>muro portante</em> di ogni visione tecnologica.</p>
+        <p>Ogni grande sviluppo tecnologico ha bisogno di un rigoroso piano finanziario per poter essere correttamente eseguito. Le buone idee e l'intelligenza sono senza dubbio il tipo di risorsa più difficile da reperire, ma una volta partiti è altresì necessario amministrare bene le finanze e completare i vari punti del piano con criterio.</p>
+        <p>Infatti, ogni azienda candidata in MFIN è anche naturalmente sottoposta a delle valutazioni finanziarie per capire se i concetti proposti sono materialmente realizzabili, con un output da parte nostra che non è binario bensì riflettente la percentuale di rischio dell'asset, contribuendo in questo modo al bilanciamento e all'ottimizzazione della performance del fondo.</p>
       `,
       ethicsTitle: "Etica",
       ethicsBody: `
-        <p>La tecnologia accelera verso un futuro che non è inevitabile né automaticamente benefico per tutti. Il terzo pilastro della mia filosofia riflette una convinzione che considero con gravità istituzionale: <em>il progresso deve essere universale.</em></p>
-        <p>Accelerazione senza distribuzione non è civiltà; è una nuova forma di feudalesimo codificata nel silicio. Investo esclusivamente in aziende la cui traiettoria tecnologica possa, a mio giudizio, comporsi in un mondo in cui <em>ogni essere umano</em>, indipendentemente da origine, geografia o circostanza, possa beneficiarne.</p>
-        <p>Le tecnologie destinate a prevalere sono quelle che espandono i beni comuni della capacità umana: abbassano il costo dell'intelligenza, della salute, dell'energia o della connessione. Una marea che sale, quando quella marea è tecnologia, può e deve sollevare tutte le barche.</p>
+        <p>La tecnologia accelera verso un futuro che non è né inevitabile né automaticamente benefico per tutti. Accelerazione senza distribuzione non è civiltà: è una nuova forma di feudalesimo codificata nella materia. Il progresso deve essere universale e le tecnologie destinate a prevalere sono quelle che espandono i beni comuni della capacità umana: abbassano il costo dell'intelligenza, della salute, dell'energia e della connessione.</p>
+        <p>MFIN investe esclusivamente in aziende la cui traiettoria tecnologica possa comporsi, in ultima analisi, in un mondo in cui ogni essere umano risulta evoluto, scartando a priori quelle che aumentano le disparità fra gli individui.</p>
       `,
-      resultsEyebrow: "Performance della strategia vs. indici principali",
+      resultsEyebrow: "MFIN contro Il Mercato",
       resultsTitle: "Risultati",
-      resultsPeriod: "Rendimenti annuali · 2022 — 2025",
-      aboutEyebrow: "Chi sono",
+      resultsPeriod: "Rendimenti annuali",
+      aboutEyebrow: "Info",
       aboutTitle: "Stefano Martire",
       aboutCredential: "Ph.D. in Data Science and Computation",
       aboutInstitute:
-        '<a href="https://www.iit.it/" rel="noreferrer" target="_blank">Italian Institute of Technology</a>',
+        '<a href="https://www.iit.it/" rel="noreferrer" target="_blank">Istituto Italiano di Tecnologia</a>',
+      aboutWebsite: "Sito personale",
       aboutBody: `
-        <p>Sono un matematico italiano, con un Ph.D. in Data Science and Computation ottenuto presso l'<a href="https://www.iit.it/" rel="noreferrer" target="_blank"><em>Italian Institute of Technology</em></a>. Il mio percorso accademico, costruito all'intersezione tra matematica astratta e scienza dei dati applicata, costituisce il fondamento metodologico della mia pratica di investimento.</p>
-        <p>Mi avvicino ai mercati non come un trader in cerca di arbitraggio, ma come uno scienziato in cerca di <em>segnale</em>: i pattern strutturali profondi che rivelano quali tecnologie diventeranno elementi portanti della civiltà a venire.</p>
+        <p>La passione per la scienza, la tecnica e le invenzioni mi accompagna fin da quando ero bambino. Sono parzialmente riuscito a colmare la mia curiosità con una laurea in Matematica presso l'Università Cattolica del Sacro Cuore e un dottorato in Data Science per l'Istituto Italiano di Tecnologia, per poi continuare la mia carriera negli ambiti della ricerca e sviluppo accademica e industriale.</p>
+        <p>Mi avvicino ai mercati non in cerca di arbitraggio, ma come uno scienziato in cerca di segnale: pattern strutturali profondi che rivelano quali tecnologie diventeranno elementi portanti per gli esseri umani del futuro.</p>
       `,
       requestAccess: "Richiedi accesso",
       mailSubject: "Richiesta di accesso",
