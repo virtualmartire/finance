@@ -2,8 +2,6 @@ services:
   finance-landing-page:
     build: .
     container_name: finance-landing-page
-    ports:
-      - "127.0.0.1:8080:80"
     restart: unless-stopped
     networks:
       - my-network
