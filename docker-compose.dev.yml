@@ -1,0 +1,12 @@
+services:
+  finance-landing-page-dev:
+    build: .
+    container_name: finance-landing-page-dev
+    ports:
+      - "8080:80"
+    volumes:
+      - ./index.html:/usr/share/nginx/html/index.html:ro
+      - ./styles.css:/usr/share/nginx/html/styles.css:ro
+      - ./app.js:/usr/share/nginx/html/app.js:ro
+      - ./data:/usr/share/nginx/html/data:ro
+      - ./images:/usr/share/nginx/html/images:ro
