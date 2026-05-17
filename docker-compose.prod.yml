@@ -3,8 +3,3 @@ services:
     build: .
     container_name: finance-landing-page
     restart: unless-stopped
-    networks:
-      - my-network
-networks:
-  my-network:
-    driver: bridge
